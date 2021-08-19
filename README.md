@@ -11,3 +11,8 @@ pseudo-classes e pseudo-elementos,
 seletores avançados do CSS,
 design responsivo,
 e outros.
+
+## Site do Projeto
+
+file:///home/flavio/Alura/Barbearia-Alura/index.html
+
